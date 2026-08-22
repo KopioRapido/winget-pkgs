@@ -17,10 +17,10 @@ Dependencies:
   PackageDependencies: []
 Installers:
   - Architecture: x64
-    InstallerUrl: https://releases.kopiorapido.com/2026.08.22/cli/kopiorapido-cli-win-x64-2026.08.22.zip
+    InstallerUrl: https://releases.kopiorapido.com/2026.08.22/cli/kopiorapido-cli-win-x64-2026.08.22.zip?v=2
     InstallerSha256: d59a74a8bd797e09af06dff51b5a38ecc980c68414bbcd0ca603e6b6939f79da
   - Architecture: arm64
-    InstallerUrl: https://releases.kopiorapido.com/2026.08.22/cli/kopiorapido-cli-win-arm64-2026.08.22.zip
+    InstallerUrl: https://releases.kopiorapido.com/2026.08.22/cli/kopiorapido-cli-win-arm64-2026.08.22.zip?v=2
     InstallerSha256: 8d6b9c1ab261814e9f99c9465189ba8d54bc695825fb37736441152e4bb8be6a
 ManifestType: installer
 ManifestVersion: 1.12.0
